@@ -1,8 +1,8 @@
-IMPLEMENTING ABSTRACT CLASS AND INTERFACE IN JAVA.
+    IMPLEMENTING ABSTRACT CLASS AND INTERFACE IN JAVA::
 
 - This is a basic account management project that illustrate the concept of Abstract Classes and Interfaces in Object Oriented Development.
 
-PROJECT STRUCTURE:
+  PROJECT STRUCTURE::
 
 - The project consists of 6 main classes, each within its own file. The main class (MainApplication) serves as the entry point.
 
